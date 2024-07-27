@@ -1,0 +1,48 @@
+
+horn_water_2.png
+size: 334,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line_white_half
+  rotate: false
+  xy: 2, 36
+  size: 85, 194
+  orig: 95, 208
+  offset: 5, 14
+  index: -1
+snowball
+  rotate: false
+  xy: 203, 2
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+snowball(2)
+  rotate: false
+  xy: 89, 4
+  size: 112, 112
+  orig: 144, 112
+  offset: 17, 0
+  index: -1
+snowball(3)
+  rotate: true
+  xy: 235, 111
+  size: 119, 97
+  orig: 144, 112
+  offset: 17, 0
+  index: -1
+snowball(4)
+  rotate: false
+  xy: 89, 118
+  size: 144, 79
+  orig: 144, 112
+  offset: 0, 0
+  index: -1
+snowball(5)
+  rotate: false
+  xy: 89, 199
+  size: 144, 31
+  orig: 144, 112
+  offset: 0, 0
+  index: -1

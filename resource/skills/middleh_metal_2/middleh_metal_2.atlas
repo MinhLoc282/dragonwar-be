@@ -1,0 +1,27 @@
+
+middleh_metal_2.png
+size: 780,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 660, 78
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 458, 2
+  size: 194, 200
+  orig: 262, 331
+  offset: 54, 13
+  index: -1
+line
+  rotate: false
+  xy: 2, 51
+  size: 454, 145
+  orig: 454, 145
+  offset: 0, 0
+  index: -1

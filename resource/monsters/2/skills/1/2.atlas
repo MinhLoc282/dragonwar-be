@@ -1,0 +1,55 @@
+
+2.png
+size: 694,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 540, 7
+  size: 157, 44
+  orig: 163, 50
+  offset: 3, 3
+  index: -1
+jawdown
+  rotate: true
+  xy: 641, 31
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+jawup
+  rotate: true
+  xy: 586, 8
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 586, 97
+  size: 95, 67
+  orig: 106, 80
+  offset: 5, 6
+  index: -1
+rock
+  rotate: true
+  xy: 300, 166
+  size: 355, 392
+  orig: 355, 392
+  offset: 0, 0
+  index: -1
+rock_glow
+  rotate: false
+  xy: 300, 2
+  size: 238, 162
+  orig: 250, 176
+  offset: 6, 7
+  index: -1
+sha
+  rotate: true
+  xy: 2, 2
+  size: 519, 296
+  orig: 541, 317
+  offset: 11, 10
+  index: -1

@@ -1,0 +1,76 @@
+
+7.png
+size: 1971, 452
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+HEAD
+  rotate: false
+  xy: 523, 3
+  size: 400, 447
+  orig: 400, 447
+  offset: 0, 0
+  index: -1
+JAW
+  rotate: false
+  xy: 1327, 68
+  size: 308, 382
+  orig: 308, 382
+  offset: 0, 0
+  index: -1
+eye-fire
+  rotate: true
+  xy: 206, 2
+  size: 150, 47
+  orig: 150, 47
+  offset: 0, 0
+  index: -1
+head-fire
+  rotate: false
+  xy: 1637, 80
+  size: 332, 370
+  orig: 366, 403
+  offset: 18, 15
+  index: -1
+head-firee
+  rotate: false
+  xy: 925, 4
+  size: 400, 446
+  orig: 400, 447
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 255, 57
+  size: 95, 67
+  orig: 106, 80
+  offset: 5, 6
+  index: -1
+rock(1)
+  rotate: true
+  xy: 2, 49
+  size: 103, 202
+  orig: 103, 202
+  offset: 0, 0
+  index: -1
+rock(2)
+  rotate: true
+  xy: 1637, 13
+  size: 65, 151
+  orig: 65, 151
+  offset: 0, 0
+  index: -1
+rock(3)
+  rotate: true
+  xy: 1790, 4
+  size: 74, 151
+  orig: 75, 151
+  offset: 1, 0
+  index: -1
+sha
+  rotate: false
+  xy: 2, 154
+  size: 519, 296
+  orig: 541, 317
+  offset: 11, 10
+  index: -1

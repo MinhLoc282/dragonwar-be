@@ -1,0 +1,13 @@
+
+middleh_earth_2.png
+size: 48,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+drillshape
+  rotate: false
+  xy: 2, 2
+  size: 44, 108
+  orig: 63, 108
+  offset: 9, 0
+  index: -1

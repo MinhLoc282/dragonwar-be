@@ -1,0 +1,20 @@
+
+middleh_metal_2_attacked.png
+size: 930,438
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow
+  rotate: true
+  xy: 693, 200
+  size: 236, 235
+  orig: 272, 281
+  offset: 15, 19
+  index: -1
+images/splash
+  rotate: false
+  xy: 2, 2
+  size: 689, 434
+  orig: 722, 457
+  offset: 16, 6
+  index: -1

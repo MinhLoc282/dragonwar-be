@@ -1,0 +1,13 @@
+
+wing_wood_2.png
+size: 16,35
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave
+  rotate: false
+  xy: 2, 2
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1

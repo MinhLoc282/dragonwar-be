@@ -1,0 +1,132 @@
+
+13.png
+size: 1221,778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACK_SCALE
+  rotate: false
+  xy: 341, 4
+  size: 203, 245
+  orig: 204, 245
+  offset: 1, 0
+  index: -1
+BEHIND_LEFT_FOOT
+  rotate: true
+  xy: 546, 13
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+BEHIND_RIGHT_FOOT
+  rotate: false
+  xy: 1105, 210
+  size: 99, 215
+  orig: 99, 215
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 2, 2
+  size: 247, 337
+  orig: 247, 337
+  offset: 0, 0
+  index: -1
+CHEST
+  rotate: false
+  xy: 1004, 162
+  size: 99, 263
+  orig: 137, 291
+  offset: 19, 14
+  index: -1
+EYES
+  rotate: true
+  xy: 620, 226
+  size: 23, 22
+  orig: 29, 31
+  offset: 4, 4
+  index: -1
+FRONT_LEFT_FOOT
+  rotate: true
+  xy: 748, 47
+  size: 112, 173
+  orig: 112, 173
+  offset: 0, 0
+  index: -1
+FRONT_RIGHT_FOOT
+  rotate: true
+  xy: 1125, 655
+  size: 121, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+FRONT_RIGHT_FOOT2
+  rotate: false
+  xy: 546, 184
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 1125, 539
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+HEAD2
+  rotate: false
+  xy: 1083, 63
+  size: 111, 52
+  orig: 113, 63
+  offset: 2, 0
+  index: -1
+MIDDLE_HORN
+  rotate: true
+  xy: 1083, 9
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+RIGHT_HORN
+  rotate: false
+  xy: 1105, 117
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+TAIL
+  rotate: false
+  xy: 644, 161
+  size: 358, 264
+  orig: 358, 264
+  offset: 0, 0
+  index: -1
+TONGUE
+  rotate: false
+  xy: 1125, 490
+  size: 67, 47
+  orig: 110, 99
+  offset: 30, 17
+  index: -1
+WING_RIGHT
+  rotate: false
+  xy: 644, 427
+  size: 479, 349
+  orig: 479, 349
+  offset: 0, 0
+  index: -1
+horn-effect
+  rotate: false
+  xy: 923, 5
+  size: 158, 154
+  orig: 158, 154
+  offset: 0, 0
+  index: -1
+wing-effect
+  rotate: false
+  xy: 2, 251
+  size: 640, 525
+  orig: 640, 525
+  offset: 0, 0
+  index: -1

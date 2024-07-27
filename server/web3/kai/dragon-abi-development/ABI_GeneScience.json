@@ -1,0 +1,137 @@
+[
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "mom",
+				"type": "uint256"
+			},
+			{
+				"name": "dad",
+				"type": "uint256"
+			},
+			{
+				"name": "targetBlock",
+				"type": "uint256"
+			}
+		],
+		"name": "mixGenes",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "isGeneScience",
+		"outputs": [
+			{
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "childGen",
+				"type": "uint16"
+			},
+			{
+				"name": "targetBlock",
+				"type": "uint256"
+			}
+		],
+		"name": "processCooldown",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint16"
+			}
+		],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "unicornation",
+				"type": "uint16"
+			},
+			{
+				"name": "targetBlock",
+				"type": "uint256"
+			}
+		],
+		"name": "upgradePonyResult",
+		"outputs": [
+			{
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"name": "",
+				"type": "bytes2"
+			}
+		],
+		"name": "ValueLogger",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"name": "",
+				"type": "bytes32"
+			}
+		],
+		"name": "GenesLogger",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"name": "",
+				"type": "string"
+			}
+		],
+		"name": "LooksLogger",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"name": "",
+				"type": "uint16"
+			}
+		],
+		"name": "PossibilityLogger",
+		"type": "event"
+	}
+]

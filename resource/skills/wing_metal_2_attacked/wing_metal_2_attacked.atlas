@@ -1,0 +1,27 @@
+
+wing_metal_2_attacked.png
+size: 1478,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/2
+  rotate: false
+  xy: 1282, 37
+  size: 194, 200
+  orig: 262, 331
+  offset: 54, 13
+  index: -1
+images/glow
+  rotate: false
+  xy: 1044, 2
+  size: 236, 235
+  orig: 272, 281
+  offset: 15, 19
+  index: -1
+images/metalstick
+  rotate: false
+  xy: 2, 48
+  size: 1040, 189
+  orig: 1040, 189
+  offset: 0, 0
+  index: -1

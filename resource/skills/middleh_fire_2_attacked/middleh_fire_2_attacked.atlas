@@ -1,0 +1,69 @@
+
+middleh_fire_2_attacked.png
+size: 775,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)
+  rotate: true
+  xy: 693, 2
+  size: 67, 80
+  orig: 99, 116
+  offset: 15, 7
+  index: -1
+images/(2)
+  rotate: true
+  xy: 603, 6
+  size: 63, 88
+  orig: 99, 116
+  offset: 18, 7
+  index: -1
+images/(10)
+  rotate: true
+  xy: 603, 6
+  size: 63, 88
+  orig: 99, 116
+  offset: 18, 7
+  index: -1
+images/(3)
+  rotate: true
+  xy: 312, 8
+  size: 61, 99
+  orig: 99, 116
+  offset: 19, 7
+  index: -1
+images/(4)
+  rotate: true
+  xy: 210, 2
+  size: 67, 100
+  orig: 99, 116
+  offset: 17, 7
+  index: -1
+images/(5)
+  rotate: true
+  xy: 2, 4
+  size: 65, 102
+  orig: 99, 116
+  offset: 17, 7
+  index: -1
+images/(6)
+  rotate: true
+  xy: 106, 4
+  size: 65, 102
+  orig: 99, 116
+  offset: 17, 7
+  index: -1
+images/(7)
+  rotate: true
+  xy: 509, 8
+  size: 61, 92
+  orig: 99, 116
+  offset: 20, 7
+  index: -1
+images/(8)
+  rotate: true
+  xy: 413, 8
+  size: 61, 94
+  orig: 99, 116
+  offset: 19, 7
+  index: -1

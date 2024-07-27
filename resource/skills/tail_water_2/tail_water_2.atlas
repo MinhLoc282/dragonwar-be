@@ -1,0 +1,20 @@
+
+tail_water_2.png
+size: 204,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hammer
+  rotate: false
+  xy: 133, 33
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+hammer_glow
+  rotate: true
+  xy: 2, 2
+  size: 113, 129
+  orig: 113, 129
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+tail_earth_1_attacked.png
+size: 308,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)
+  rotate: false
+  xy: 272, 242
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+images/(2)
+  rotate: false
+  xy: 263, 128
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+images/(3)
+  rotate: false
+  xy: 235, 17
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+images/(4)
+  rotate: false
+  xy: 122, 2
+  size: 111, 100
+  orig: 111, 100
+  offset: 0, 0
+  index: -1
+images/(5)
+  rotate: false
+  xy: 2, 34
+  size: 118, 95
+  orig: 118, 95
+  offset: 0, 0
+  index: -1
+images/(6)
+  rotate: false
+  xy: 134, 104
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+images/(7)
+  rotate: false
+  xy: 2, 131
+  size: 130, 92
+  orig: 130, 92
+  offset: 0, 0
+  index: -1
+images/(8)
+  rotate: false
+  xy: 138, 197
+  size: 132, 91
+  orig: 132, 91
+  offset: 0, 0
+  index: -1
+images/(9)
+  rotate: false
+  xy: 2, 225
+  size: 134, 63
+  orig: 134, 63
+  offset: 0, 0
+  index: -1

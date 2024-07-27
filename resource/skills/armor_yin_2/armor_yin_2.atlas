@@ -1,0 +1,20 @@
+
+armor_yin_2.png
+size: 380,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/egg
+  rotate: false
+  xy: 284, 36
+  size: 94, 178
+  orig: 94, 178
+  offset: 0, 0
+  index: -1
+images/egg_gl
+  rotate: true
+  xy: 2, 2
+  size: 212, 280
+  orig: 260, 280
+  offset: 24, 0
+  index: -1

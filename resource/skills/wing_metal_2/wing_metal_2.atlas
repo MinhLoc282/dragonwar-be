@@ -1,0 +1,20 @@
+
+wing_metal_2.png
+size: 1491,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 1044, 2
+  size: 445, 389
+  orig: 446, 460
+  offset: 0, 8
+  index: -1
+metalstick
+  rotate: false
+  xy: 2, 202
+  size: 1040, 189
+  orig: 1040, 189
+  offset: 0, 0
+  index: -1

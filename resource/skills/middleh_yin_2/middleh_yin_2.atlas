@@ -1,0 +1,20 @@
+
+middleh_yin_2.png
+size: 366,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/egg
+  rotate: false
+  xy: 260, 80
+  size: 104, 142
+  orig: 150, 155
+  offset: 23, 6
+  index: -1
+images/egg_gl
+  rotate: true
+  xy: 2, 2
+  size: 220, 256
+  orig: 260, 280
+  offset: 20, 11
+  index: -1

@@ -1,0 +1,13 @@
+
+fin_water_2.png
+size: 26,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice_knife
+  rotate: false
+  xy: 2, 2
+  size: 22, 89
+  orig: 30, 94
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,20 @@
+
+wing_metal_1.png
+size: 352,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line_white
+  rotate: false
+  xy: 255, 23
+  size: 95, 230
+  orig: 95, 416
+  offset: 0, 0
+  index: -1
+metalball
+  rotate: false
+  xy: 2, 2
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1

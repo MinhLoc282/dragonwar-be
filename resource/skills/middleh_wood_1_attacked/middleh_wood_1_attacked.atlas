@@ -1,0 +1,20 @@
+
+middleh_wood_1_attacked.png
+size: 164,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow
+  rotate: false
+  xy: 33, 12
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+images/lightstray
+  rotate: true
+  xy: 2, 2
+  size: 140, 29
+  orig: 150, 33
+  offset: 1, 2
+  index: -1

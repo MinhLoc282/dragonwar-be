@@ -1,0 +1,13 @@
+
+horn_wood_2.png
+size: 254,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+linegreen
+  rotate: false
+  xy: 2, 2
+  size: 250, 5
+  orig: 250, 5
+  offset: 0, 0
+  index: -1

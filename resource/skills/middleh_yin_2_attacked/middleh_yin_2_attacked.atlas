@@ -1,0 +1,62 @@
+
+middleh_yin_2_attacked.png
+size: 581,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)
+  rotate: false
+  xy: 537, 8
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+images/(2)
+  rotate: false
+  xy: 537, 31
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+images/(3)
+  rotate: false
+  xy: 469, 11
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+images/(4)
+  rotate: false
+  xy: 382, 4
+  size: 85, 61
+  orig: 85, 61
+  offset: 0, 0
+  index: -1
+images/(5)
+  rotate: false
+  xy: 290, 2
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+images/(6)
+  rotate: false
+  xy: 195, 2
+  size: 93, 63
+  orig: 93, 63
+  offset: 0, 0
+  index: -1
+images/(7)
+  rotate: false
+  xy: 99, 2
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+images/(8)
+  rotate: false
+  xy: 2, 2
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1

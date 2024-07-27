@@ -1,0 +1,62 @@
+
+head_metal_1.png
+size: 423,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/w(2)
+  rotate: false
+  xy: 2, 2
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+images/w(3)
+  rotate: false
+  xy: 65, 2
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+images/w(4)
+  rotate: false
+  xy: 243, 5
+  size: 61, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+images/w(5)
+  rotate: false
+  xy: 128, 4
+  size: 51, 86
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+images/w(6)
+  rotate: false
+  xy: 367, 9
+  size: 54, 81
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+images/w(7)
+  rotate: false
+  xy: 306, 8
+  size: 59, 82
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+images/w(8)
+  rotate: false
+  xy: 181, 5
+  size: 60, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+images/w(1)
+  rotate: false
+  xy: 181, 5
+  size: 60, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1

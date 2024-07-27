@@ -1,0 +1,27 @@
+
+head_le_2.png
+size: 329,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 140, 2
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+glow_circle
+  rotate: true
+  xy: 2, 2
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1
+metalball
+  rotate: true
+  xy: 272, 75
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1

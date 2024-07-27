@@ -1,0 +1,13 @@
+
+s5.png
+size: 799,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line_blue
+  rotate: false
+  xy: 2, 2
+  size: 795, 113
+  orig: 795, 113
+  offset: 0, 0
+  index: -1

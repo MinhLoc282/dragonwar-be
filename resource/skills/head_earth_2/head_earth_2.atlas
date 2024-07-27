@@ -1,0 +1,55 @@
+
+head_earth_2.png
+size: 334,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skull_tomb(1)
+  rotate: true
+  xy: 251, 353
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+skull_tomb(2)
+  rotate: true
+  xy: 251, 250
+  size: 101, 64
+  orig: 101, 64
+  offset: 0, 0
+  index: -1
+skull_tomb(3)
+  rotate: false
+  xy: 230, 7
+  size: 101, 64
+  orig: 101, 64
+  offset: 0, 0
+  index: -1
+skull_tomb(4)
+  rotate: true
+  xy: 251, 456
+  size: 116, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+skull_tomb(5)
+  rotate: true
+  xy: 230, 73
+  size: 126, 91
+  orig: 126, 91
+  offset: 0, 0
+  index: -1
+skull_tomb(6)
+  rotate: false
+  xy: 2, 2
+  size: 226, 197
+  orig: 226, 197
+  offset: 0, 0
+  index: -1
+skull_tomb(7)
+  rotate: true
+  xy: 2, 201
+  size: 371, 247
+  orig: 371, 247
+  offset: 0, 0
+  index: -1

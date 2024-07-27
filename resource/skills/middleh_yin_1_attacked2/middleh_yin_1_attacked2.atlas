@@ -1,0 +1,13 @@
+
+middleh_yin_1_attacked2.png
+size: 204,42
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hammercrack
+  rotate: false
+  xy: 2, 2
+  size: 200, 38
+  orig: 200, 38
+  offset: 0, 0
+  index: -1

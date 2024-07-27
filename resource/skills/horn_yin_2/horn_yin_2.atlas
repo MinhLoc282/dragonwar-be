@@ -1,0 +1,20 @@
+
+horn_yin_2.png
+size: 307,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+horn
+  rotate: false
+  xy: 187, 2
+  size: 118, 155
+  orig: 150, 188
+  offset: 16, 17
+  index: -1
+horn_glow
+  rotate: true
+  xy: 2, 11
+  size: 146, 183
+  orig: 150, 188
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,20 @@
+
+s5.png
+size: 531,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_circle
+  rotate: true
+  xy: 393, 2
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1
+line_white
+  rotate: true
+  xy: 2, 46
+  size: 85, 389
+  orig: 95, 416
+  offset: 5, 14
+  index: -1

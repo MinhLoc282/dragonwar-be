@@ -1,0 +1,41 @@
+
+middleh_le_2.png
+size: 581,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_wall(1)
+  rotate: true
+  xy: 376, 2
+  size: 67, 107
+  orig: 67, 107
+  offset: 0, 0
+  index: -1
+f_wall(2)
+  rotate: true
+  xy: 257, 2
+  size: 67, 117
+  orig: 67, 117
+  offset: 0, 0
+  index: -1
+f_wall(3)
+  rotate: true
+  xy: 2, 2
+  size: 67, 128
+  orig: 67, 128
+  offset: 0, 0
+  index: -1
+f_wall(4)
+  rotate: true
+  xy: 132, 2
+  size: 67, 123
+  orig: 67, 123
+  offset: 0, 0
+  index: -1
+f_wall(5)
+  rotate: true
+  xy: 485, 2
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1

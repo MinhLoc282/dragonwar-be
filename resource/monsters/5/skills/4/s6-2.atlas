@@ -1,0 +1,55 @@
+
+s6-2.png
+size: 1718, 990
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+line-p(1)
+  rotate: true
+  xy: 371, 27
+  size: 961, 416
+  orig: 973, 424
+  offset: 5, 5
+  index: -1
+line-p(2)
+  rotate: false
+  xy: 789, 667
+  size: 788, 321
+  orig: 799, 328
+  offset: 5, 4
+  index: -1
+line-p(3)
+  rotate: true
+  xy: 2, 2
+  size: 986, 367
+  orig: 997, 373
+  offset: 5, 3
+  index: -1
+line-p(4)
+  rotate: true
+  xy: 789, 34
+  size: 631, 342
+  orig: 643, 348
+  offset: 6, 3
+  index: -1
+line-p(5)
+  rotate: true
+  xy: 1133, 57
+  size: 608, 270
+  orig: 620, 277
+  offset: 6, 4
+  index: -1
+line-p(6)
+  rotate: true
+  xy: 1405, 252
+  size: 413, 311
+  orig: 425, 318
+  offset: 6, 3
+  index: -1
+line-p(7)
+  rotate: true
+  xy: 1405, 2
+  size: 248, 213
+  orig: 260, 223
+  offset: 6, 5
+  index: -1

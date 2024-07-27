@@ -1,0 +1,76 @@
+
+8.png
+size: 867, 525
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+2_BELOW
+  rotate: false
+  xy: 481, 2
+  size: 377, 126
+  orig: 377, 126
+  offset: 0, 0
+  index: -1
+2_BODY
+  rotate: false
+  xy: 481, 130
+  size: 166, 393
+  orig: 166, 449
+  offset: 0, 28
+  index: -1
+2_UP
+  rotate: true
+  xy: 300, 33
+  size: 490, 179
+  orig: 490, 179
+  offset: 0, 0
+  index: -1
+explode-p (7)
+  rotate: true
+  xy: 649, 342
+  size: 181, 183
+  orig: 187, 191
+  offset: 3, 4
+  index: -1
+eye
+  rotate: true
+  xy: 649, 183
+  size: 157, 44
+  orig: 163, 50
+  offset: 3, 3
+  index: -1
+eye-fire
+  rotate: false
+  xy: 649, 134
+  size: 150, 47
+  orig: 150, 47
+  offset: 0, 0
+  index: -1
+jawdown
+  rotate: false
+  xy: 801, 304
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+jawup
+  rotate: false
+  xy: 695, 190
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 695, 245
+  size: 95, 67
+  orig: 106, 80
+  offset: 5, 6
+  index: -1
+sha
+  rotate: true
+  xy: 2, 4
+  size: 519, 296
+  orig: 541, 317
+  offset: 11, 10
+  index: -1

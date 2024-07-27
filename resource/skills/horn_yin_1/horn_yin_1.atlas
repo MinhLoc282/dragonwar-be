@@ -1,0 +1,20 @@
+
+horn_yin_1.png
+size: 236,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 2, 2
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+metalball
+  rotate: false
+  xy: 134, 31
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

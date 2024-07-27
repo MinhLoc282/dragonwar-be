@@ -1,0 +1,27 @@
+
+head_metal_1_attacked.png
+size: 259,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bubble
+  rotate: true
+  xy: 247, 41
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+images/ground_lav
+  rotate: false
+  xy: 125, 6
+  size: 120, 48
+  orig: 120, 48
+  offset: 0, 0
+  index: -1
+images/ground_lava_blur
+  rotate: false
+  xy: 2, 2
+  size: 121, 52
+  orig: 126, 56
+  offset: 3, 2
+  index: -1

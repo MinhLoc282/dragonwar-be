@@ -1,0 +1,13 @@
+
+middleh_water_2.png
+size: 60,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cold_air
+  rotate: false
+  xy: 2, 2
+  size: 56, 81
+  orig: 61, 91
+  offset: 0, 5
+  index: -1

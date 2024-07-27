@@ -1,0 +1,13 @@
+
+horn_yin_1_attacked.png
+size: 133,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1

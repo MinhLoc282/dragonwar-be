@@ -1,0 +1,76 @@
+
+armor_yin_1.png
+size: 1329,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)
+  rotate: false
+  xy: 1279, 248
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+images/(2)
+  rotate: true
+  xy: 1000, 39
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+images/(3)
+  rotate: false
+  xy: 906, 19
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+images/(4)
+  rotate: false
+  xy: 666, 2
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+images/(5)
+  rotate: true
+  xy: 788, 2
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+images/5(1)
+  rotate: false
+  xy: 2, 11
+  size: 662, 174
+  orig: 662, 174
+  offset: 0, 0
+  index: -1
+images/5(2)
+  rotate: false
+  xy: 2, 187
+  size: 680, 119
+  orig: 680, 119
+  offset: 0, 0
+  index: -1
+images/5(3)
+  rotate: false
+  xy: 2, 308
+  size: 700, 164
+  orig: 700, 164
+  offset: 0, 0
+  index: -1
+images/5(4)
+  rotate: false
+  xy: 684, 113
+  size: 593, 182
+  orig: 593, 182
+  offset: 0, 0
+  index: -1
+images/5(5)
+  rotate: false
+  xy: 704, 297
+  size: 615, 175
+  orig: 615, 175
+  offset: 0, 0
+  index: -1

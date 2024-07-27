@@ -1,0 +1,62 @@
+
+1.png
+size: 397,1011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 2, 87
+  size: 157, 44
+  orig: 163, 50
+  offset: 3, 3
+  index: -1
+glow_circle
+  rotate: true
+  xy: 161, 2
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1
+jawdown
+  rotate: false
+  xy: 299, 95
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+jawup
+  rotate: false
+  xy: 300, 496
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+line_white
+  rotate: false
+  xy: 300, 620
+  size: 85, 389
+  orig: 95, 416
+  offset: 5, 14
+  index: -1
+mouth
+  rotate: false
+  xy: 300, 551
+  size: 95, 67
+  orig: 106, 80
+  offset: 5, 6
+  index: -1
+rock
+  rotate: true
+  xy: 2, 133
+  size: 355, 391
+  orig: 355, 392
+  offset: 0, 1
+  index: -1
+sha
+  rotate: true
+  xy: 2, 490
+  size: 519, 296
+  orig: 541, 317
+  offset: 11, 10
+  index: -1

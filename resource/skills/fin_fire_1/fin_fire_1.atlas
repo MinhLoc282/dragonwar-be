@@ -1,0 +1,41 @@
+
+fin_fire_1.png
+size: 316,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+charcoal
+  rotate: false
+  xy: 274, 14
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+fti(1)_0000_ft(1)
+  rotate: true
+  xy: 140, 2
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+fti(1)_0001_ft(2)
+  rotate: true
+  xy: 2, 2
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+fti(1)_0002_ft(3)
+  rotate: true
+  xy: 208, 2
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+fti(1)_0003_ft(4)
+  rotate: true
+  xy: 71, 2
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1

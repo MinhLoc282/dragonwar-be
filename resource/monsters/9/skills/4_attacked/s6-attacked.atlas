@@ -1,0 +1,20 @@
+
+s6-attacked.png
+size: 752, 423
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+explodeee (1)
+  rotate: false
+  xy: 2, 2
+  size: 474, 419
+  orig: 474, 419
+  offset: 0, 0
+  index: -1
+glow-dot
+  rotate: false
+  xy: 478, 149
+  size: 272, 272
+  orig: 282, 281
+  offset: 5, 5
+  index: -1

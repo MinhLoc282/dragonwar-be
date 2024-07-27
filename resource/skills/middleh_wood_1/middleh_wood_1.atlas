@@ -1,0 +1,27 @@
+
+middleh_wood_1.png
+size: 275,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 144, 3
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+lightstray
+  rotate: false
+  xy: 2, 104
+  size: 140, 29
+  orig: 150, 33
+  offset: 1, 2
+  index: -1
+metalball
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

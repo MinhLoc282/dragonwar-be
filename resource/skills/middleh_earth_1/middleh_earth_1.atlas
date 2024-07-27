@@ -1,0 +1,97 @@
+
+middleh_earth_1.png
+size: 977,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+drill
+  rotate: false
+  xy: 2, 2
+  size: 244, 68
+  orig: 244, 68
+  offset: 0, 0
+  index: -1
+drillshape
+  rotate: true
+  xy: 248, 7
+  size: 63, 118
+  orig: 63, 124
+  offset: 0, 6
+  index: -1
+w(1)
+  rotate: true
+  xy: 636, 10
+  size: 60, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(8)
+  rotate: true
+  xy: 636, 10
+  size: 60, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(3)
+  rotate: true
+  xy: 458, 9
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(11)
+  rotate: true
+  xy: 458, 9
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(4)
+  rotate: true
+  xy: 723, 9
+  size: 61, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(5)
+  rotate: true
+  xy: 548, 19
+  size: 51, 86
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(6)
+  rotate: true
+  xy: 894, 16
+  size: 54, 81
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(7)
+  rotate: true
+  xy: 810, 11
+  size: 59, 82
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(9)
+  rotate: true
+  xy: 368, 9
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(10)
+  rotate: true
+  xy: 368, 9
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(2)
+  rotate: true
+  xy: 368, 9
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1

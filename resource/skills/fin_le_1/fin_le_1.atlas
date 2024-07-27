@@ -1,0 +1,55 @@
+
+fin_le_1.png
+size: 146,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)
+  rotate: true
+  xy: 127, 155
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+images/(2)
+  rotate: true
+  xy: 87, 12
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+images/(3)
+  rotate: true
+  xy: 2, 61
+  size: 116, 123
+  orig: 116, 123
+  offset: 0, 0
+  index: -1
+images/(4)
+  rotate: true
+  xy: 2, 179
+  size: 116, 131
+  orig: 116, 131
+  offset: 0, 0
+  index: -1
+images/(5)
+  rotate: true
+  xy: 2, 423
+  size: 122, 141
+  orig: 122, 141
+  offset: 0, 0
+  index: -1
+images/(6)
+  rotate: true
+  xy: 2, 297
+  size: 124, 139
+  orig: 124, 139
+  offset: 0, 0
+  index: -1
+images/stone
+  rotate: true
+  xy: 2, 2
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1

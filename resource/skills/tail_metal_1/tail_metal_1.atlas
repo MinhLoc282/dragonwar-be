@@ -1,0 +1,13 @@
+
+tail_metal_1.png
+size: 35,30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chain_1
+  rotate: false
+  xy: 2, 2
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1

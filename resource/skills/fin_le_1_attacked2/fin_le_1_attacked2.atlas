@@ -1,0 +1,13 @@
+
+fin_le_1_attacked2.png
+size: 61,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stone
+  rotate: false
+  xy: 2, 2
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1

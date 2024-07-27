@@ -1,0 +1,76 @@
+
+wing_water_2.png
+size: 121,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w2_(10 (1)
+  rotate: true
+  xy: 82, 201
+  size: 63, 29
+  orig: 105, 46
+  offset: 22, 8
+  index: -1
+w2_(10 (10)
+  rotate: false
+  xy: 2, 27
+  size: 35, 25
+  orig: 50, 35
+  offset: 8, 5
+  index: -1
+w2_(10 (2)
+  rotate: false
+  xy: 2, 222
+  size: 78, 42
+  orig: 134, 73
+  offset: 29, 15
+  index: -1
+w2_(10 (3)
+  rotate: false
+  xy: 2, 168
+  size: 74, 52
+  orig: 130, 75
+  offset: 29, 11
+  index: -1
+w2_(10 (4)
+  rotate: false
+  xy: 2, 112
+  size: 58, 54
+  orig: 98, 78
+  offset: 21, 12
+  index: -1
+w2_(10 (5)
+  rotate: true
+  xy: 62, 111
+  size: 55, 57
+  orig: 122, 104
+  offset: 34, 23
+  index: -1
+w2_(10 (6)
+  rotate: true
+  xy: 2, 54
+  size: 56, 57
+  orig: 99, 84
+  offset: 22, 14
+  index: -1
+w2_(10 (7)
+  rotate: false
+  xy: 61, 55
+  size: 56, 54
+  orig: 99, 89
+  offset: 22, 18
+  index: -1
+w2_(10 (8)
+  rotate: false
+  xy: 61, 2
+  size: 55, 51
+  orig: 88, 77
+  offset: 17, 14
+  index: -1
+w2_(10 (9)
+  rotate: false
+  xy: 78, 169
+  size: 41, 30
+  orig: 63, 46
+  offset: 11, 9
+  index: -1

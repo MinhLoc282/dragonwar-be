@@ -1,0 +1,20 @@
+
+middleh_water_2_attacked.png
+size: 129,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/cold_air
+  rotate: true
+  xy: 2, 2
+  size: 56, 81
+  orig: 61, 91
+  offset: 0, 5
+  index: -1
+images/snowflake
+  rotate: false
+  xy: 85, 9
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+wing_earth_1.png
+size: 422,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5 (1)
+  rotate: false
+  xy: 335, 4
+  size: 45, 29
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+5 (10)
+  rotate: true
+  xy: 406, 97
+  size: 34, 14
+  orig: 89, 66
+  offset: 55, 49
+  index: -1
+5 (2)
+  rotate: false
+  xy: 134, 83
+  size: 66, 48
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+5 (3)
+  rotate: true
+  xy: 134, 18
+  size: 63, 65
+  orig: 89, 66
+  offset: 13, 0
+  index: -1
+5 (4)
+  rotate: true
+  xy: 202, 72
+  size: 59, 66
+  orig: 89, 66
+  offset: 20, 0
+  index: -1
+5 (5)
+  rotate: true
+  xy: 270, 76
+  size: 55, 66
+  orig: 89, 66
+  offset: 25, 0
+  index: -1
+5 (6)
+  rotate: true
+  xy: 338, 78
+  size: 53, 66
+  orig: 89, 66
+  offset: 27, 0
+  index: -1
+5 (7)
+  rotate: true
+  xy: 201, 16
+  size: 54, 62
+  orig: 89, 66
+  offset: 29, 0
+  index: -1
+5 (8)
+  rotate: true
+  xy: 270, 24
+  size: 50, 63
+  orig: 89, 66
+  offset: 35, 0
+  index: -1
+5 (9)
+  rotate: true
+  xy: 338, 35
+  size: 41, 64
+  orig: 89, 66
+  offset: 46, 0
+  index: -1
+glow
+  rotate: true
+  xy: 2, 2
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+line_white
+  rotate: true
+  xy: 2, 133
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1

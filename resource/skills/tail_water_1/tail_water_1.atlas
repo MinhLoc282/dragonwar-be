@@ -1,0 +1,76 @@
+
+tail_water_1.png
+size: 263,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w-_0000_wave(1)
+  rotate: false
+  xy: 224, 6
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+w-_0001_wave(2)
+  rotate: true
+  xy: 98, 9
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+w-_0002_wave(3)
+  rotate: true
+  xy: 2, 5
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+w-_0003_wave(4)
+  rotate: true
+  xy: 50, 6
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+w-_0004_wave(5)
+  rotate: true
+  xy: 132, 16
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+w-_0005_wave(6)
+  rotate: true
+  xy: 178, 23
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+w-_0006_wave(7)
+  rotate: true
+  xy: 221, 25
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+w-_0007_wave(8)
+  rotate: false
+  xy: 178, 2
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+w-_0008_wave(9)
+  rotate: false
+  xy: 132, 7
+  size: 39, 7
+  orig: 39, 7
+  offset: 0, 0
+  index: -1
+w-_0009_wave(10)
+  rotate: false
+  xy: 98, 2
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1

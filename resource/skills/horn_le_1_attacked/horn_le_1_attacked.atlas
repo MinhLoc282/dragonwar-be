@@ -1,0 +1,41 @@
+
+horn_le_1_attacked.png
+size: 175,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/23 (1)
+  rotate: false
+  xy: 2, 93
+  size: 89, 93
+  orig: 91, 95
+  offset: 1, 1
+  index: -1
+images/23 (2)
+  rotate: false
+  xy: 96, 6
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+images/23 (3)
+  rotate: false
+  xy: 96, 51
+  size: 56, 59
+  orig: 58, 61
+  offset: 1, 1
+  index: -1
+images/23 (4)
+  rotate: true
+  xy: 93, 112
+  size: 74, 80
+  orig: 76, 82
+  offset: 1, 1
+  index: -1
+images/23 (6)
+  rotate: true
+  xy: 2, 2
+  size: 89, 92
+  orig: 91, 94
+  offset: 1, 1
+  index: -1

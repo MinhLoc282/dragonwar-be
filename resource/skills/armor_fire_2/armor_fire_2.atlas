@@ -1,0 +1,55 @@
+
+armor_fire_2.png
+size: 1439,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4(1)
+  rotate: true
+  xy: 745, 2
+  size: 268, 317
+  orig: 268, 317
+  offset: 0, 0
+  index: -1
+4(2)
+  rotate: true
+  xy: 420, 18
+  size: 252, 323
+  orig: 252, 323
+  offset: 0, 0
+  index: -1
+4(3)
+  rotate: false
+  xy: 1064, 7
+  size: 192, 263
+  orig: 192, 263
+  offset: 0, 0
+  index: -1
+4(4)
+  rotate: false
+  xy: 1258, 25
+  size: 179, 245
+  orig: 179, 245
+  offset: 0, 0
+  index: -1
+4(5)
+  rotate: true
+  xy: 2, 10
+  size: 163, 256
+  orig: 163, 256
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 260, 43
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+line_white
+  rotate: true
+  xy: 2, 175
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1

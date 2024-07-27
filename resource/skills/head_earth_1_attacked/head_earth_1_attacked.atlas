@@ -1,0 +1,41 @@
+
+head_earth_1_attacked.png
+size: 610,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tomb(1)
+  rotate: false
+  xy: 537, 14
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+tomb(2)
+  rotate: false
+  xy: 479, 8
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+tomb(3)
+  rotate: false
+  xy: 366, 2
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+tomb(4)
+  rotate: false
+  xy: 366, 97
+  size: 242, 150
+  orig: 242, 150
+  offset: 0, 0
+  index: -1
+tomb(5)
+  rotate: false
+  xy: 2, 25
+  size: 362, 222
+  orig: 362, 222
+  offset: 0, 0
+  index: -1

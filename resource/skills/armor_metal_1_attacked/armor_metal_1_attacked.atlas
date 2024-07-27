@@ -1,0 +1,20 @@
+
+armor_metal_1_attacked.png
+size: 468,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow
+  rotate: false
+  xy: 2, 2
+  size: 236, 235
+  orig: 272, 281
+  offset: 15, 19
+  index: -1
+images/lightstray
+  rotate: false
+  xy: 2, 239
+  size: 464, 97
+  orig: 500, 110
+  offset: 5, 7
+  index: -1

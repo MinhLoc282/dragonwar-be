@@ -1,0 +1,41 @@
+
+tail_earth_1.png
+size: 207,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/r1 (1)
+  rotate: true
+  xy: 120, 14
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+images/r1 (2)
+  rotate: false
+  xy: 120, 64
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+images/r1 (3)
+  rotate: false
+  xy: 113, 141
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+images/r1 (4)
+  rotate: true
+  xy: 2, 113
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+images/r1 (5)
+  rotate: true
+  xy: 2, 2
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1

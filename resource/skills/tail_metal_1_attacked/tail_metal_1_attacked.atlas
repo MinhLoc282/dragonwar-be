@@ -1,0 +1,13 @@
+
+tail_metal_1_attacked.png
+size: 693,438
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/splash
+  rotate: false
+  xy: 2, 2
+  size: 689, 434
+  orig: 722, 457
+  offset: 16, 6
+  index: -1

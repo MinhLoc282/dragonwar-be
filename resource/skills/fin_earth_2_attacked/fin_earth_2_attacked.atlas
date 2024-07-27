@@ -1,0 +1,69 @@
+
+fin_earth_2_attacked.png
+size: 190,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)
+  rotate: false
+  xy: 156, 32
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+images/(2)
+  rotate: false
+  xy: 90, 2
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+images/(3)
+  rotate: false
+  xy: 2, 50
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+images/(4)
+  rotate: false
+  xy: 2, 183
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+images/(5)
+  rotate: false
+  xy: 2, 112
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+images/(6)
+  rotate: false
+  xy: 97, 183
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+images/(7)
+  rotate: false
+  xy: 97, 116
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+images/(8)
+  rotate: false
+  xy: 97, 50
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+images/(9)
+  rotate: false
+  xy: 2, 3
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+armor_yin_2_attacked.png
+size: 294,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)
+  rotate: true
+  xy: 125, 12
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+images/(2)
+  rotate: true
+  xy: 2, 3
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+images/(3)
+  rotate: true
+  xy: 237, 54
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+images/(4)
+  rotate: false
+  xy: 237, 19
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+images/(5)
+  rotate: false
+  xy: 237, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+images/(6)
+  rotate: false
+  xy: 255, 8
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1

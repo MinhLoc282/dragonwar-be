@@ -1,0 +1,27 @@
+
+horn_metal_1_attacked.png
+size: 394,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/d1
+  rotate: false
+  xy: 388, 234
+  size: 4, 4
+  orig: 5, 5
+  offset: 1, 1
+  index: -1
+images/glow
+  rotate: true
+  xy: 2, 2
+  size: 236, 235
+  orig: 272, 281
+  offset: 15, 19
+  index: -1
+images/glow_line
+  rotate: true
+  xy: 239, 2
+  size: 236, 147
+  orig: 272, 195
+  offset: 15, 21
+  index: -1

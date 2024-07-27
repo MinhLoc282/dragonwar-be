@@ -1,0 +1,41 @@
+
+wing_fire_2.png
+size: 642,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5(1)
+  rotate: true
+  xy: 289, 224
+  size: 662, 174
+  orig: 662, 174
+  offset: 0, 0
+  index: -1
+5(2)
+  rotate: true
+  xy: 168, 206
+  size: 680, 119
+  orig: 680, 119
+  offset: 0, 0
+  index: -1
+5(3)
+  rotate: true
+  xy: 2, 186
+  size: 700, 164
+  orig: 700, 164
+  offset: 0, 0
+  index: -1
+5(4)
+  rotate: false
+  xy: 2, 2
+  size: 593, 182
+  orig: 593, 182
+  offset: 0, 0
+  index: -1
+5(5)
+  rotate: true
+  xy: 465, 271
+  size: 615, 175
+  orig: 615, 175
+  offset: 0, 0
+  index: -1

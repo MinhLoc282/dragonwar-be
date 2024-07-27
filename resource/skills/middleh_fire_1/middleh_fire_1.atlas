@@ -1,0 +1,55 @@
+
+middleh_fire_1.png
+size: 194,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 2, 115
+  size: 22, 163
+  orig: 22, 163
+  offset: 0, 0
+  index: -1
+f(1)
+  rotate: true
+  xy: 2, 239
+  size: 89, 190
+  orig: 111, 208
+  offset: 10, 7
+  index: -1
+f(2)
+  rotate: false
+  xy: 89, 330
+  size: 92, 194
+  orig: 111, 208
+  offset: 8, 7
+  index: -1
+f(3)
+  rotate: false
+  xy: 89, 526
+  size: 94, 196
+  orig: 111, 208
+  offset: 11, 6
+  index: -1
+f(4)
+  rotate: true
+  xy: 2, 139
+  size: 98, 185
+  orig: 111, 208
+  offset: 6, 7
+  index: -1
+f(5)
+  rotate: true
+  xy: 2, 2
+  size: 111, 115
+  orig: 111, 208
+  offset: 0, 0
+  index: -1
+line_white
+  rotate: false
+  xy: 2, 333
+  size: 85, 389
+  orig: 95, 416
+  offset: 5, 14
+  index: -1

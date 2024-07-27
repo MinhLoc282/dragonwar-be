@@ -1,0 +1,41 @@
+
+fin_metal_2.png
+size: 328,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 144, 2
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+lightstray
+  rotate: false
+  xy: 2, 102
+  size: 140, 29
+  orig: 150, 33
+  offset: 1, 2
+  index: -1
+shield__0000_front
+  rotate: false
+  xy: 80, 14
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+shield__0001_side
+  rotate: false
+  xy: 2, 14
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+twinkle
+  rotate: false
+  xy: 276, 74
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+s5_attacked.png
+size: 183,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)_0000_(1)
+  rotate: false
+  xy: 2, 2
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+images/(1)_0001_(2)
+  rotate: true
+  xy: 96, 6
+  size: 56, 59
+  orig: 58, 61
+  offset: 1, 1
+  index: -1
+images/(1)_0002_(3)
+  rotate: false
+  xy: 96, 64
+  size: 74, 80
+  orig: 76, 82
+  offset: 1, 1
+  index: -1
+images/(1)_0003_(4)
+  rotate: true
+  xy: 93, 146
+  size: 85, 88
+  orig: 87, 90
+  offset: 1, 1
+  index: -1
+images/(1)_0004_(5)
+  rotate: true
+  xy: 2, 47
+  size: 89, 92
+  orig: 91, 94
+  offset: 1, 1
+  index: -1
+images/(1)_0005_(6)
+  rotate: false
+  xy: 2, 138
+  size: 89, 93
+  orig: 91, 95
+  offset: 1, 1
+  index: -1

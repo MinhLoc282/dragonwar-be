@@ -1,0 +1,76 @@
+
+fin_earth_1_attacked.png
+size: 92,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 87, 137
+  size: 3, 3
+  orig: 61, 61
+  offset: 28, 28
+  index: -1
+images/2
+  rotate: true
+  xy: 14, 18
+  size: 6, 7
+  orig: 61, 61
+  offset: 27, 26
+  index: -1
+images/3
+  rotate: true
+  xy: 2, 16
+  size: 8, 10
+  orig: 61, 61
+  offset: 26, 25
+  index: -1
+images/4
+  rotate: true
+  xy: 60, 120
+  size: 20, 25
+  orig: 61, 61
+  offset: 20, 16
+  index: -1
+images/5
+  rotate: true
+  xy: 50, 38
+  size: 30, 37
+  orig: 61, 61
+  offset: 15, 11
+  index: -1
+images/6
+  rotate: false
+  xy: 53, 70
+  size: 36, 44
+  orig: 61, 61
+  offset: 12, 5
+  index: -1
+images/7
+  rotate: true
+  xy: 2, 26
+  size: 45, 46
+  orig: 61, 61
+  offset: 10, 4
+  index: -1
+images/8
+  rotate: true
+  xy: 2, 73
+  size: 41, 49
+  orig: 61, 61
+  offset: 9, 3
+  index: -1
+images/9
+  rotate: false
+  xy: 50, 2
+  size: 35, 34
+  orig: 61, 61
+  offset: 11, 13
+  index: -1
+images/soil
+  rotate: false
+  xy: 2, 116
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1

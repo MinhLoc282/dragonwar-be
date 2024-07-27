@@ -1,0 +1,104 @@
+
+horn_water_1.png
+size: 642,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 2
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1
+5(1)
+  rotate: true
+  xy: 289, 355
+  size: 662, 174
+  orig: 662, 174
+  offset: 0, 0
+  index: -1
+5(2)
+  rotate: true
+  xy: 168, 337
+  size: 680, 119
+  orig: 680, 119
+  offset: 0, 0
+  index: -1
+5(3)
+  rotate: true
+  xy: 2, 317
+  size: 700, 164
+  orig: 700, 164
+  offset: 0, 0
+  index: -1
+5(4)
+  rotate: false
+  xy: 2, 133
+  size: 593, 182
+  orig: 593, 182
+  offset: 0, 0
+  index: -1
+5(5)
+  rotate: true
+  xy: 465, 402
+  size: 615, 175
+  orig: 615, 175
+  offset: 0, 0
+  index: -1
+w(1)
+  rotate: true
+  xy: 555, 340
+  size: 60, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(8)
+  rotate: true
+  xy: 555, 340
+  size: 60, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(2)
+  rotate: true
+  xy: 465, 339
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(3)
+  rotate: true
+  xy: 140, 70
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(4)
+  rotate: true
+  xy: 318, 70
+  size: 61, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(5)
+  rotate: true
+  xy: 230, 80
+  size: 51, 86
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(6)
+  rotate: true
+  xy: 489, 77
+  size: 54, 81
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(7)
+  rotate: true
+  xy: 405, 72
+  size: 59, 82
+  orig: 61, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+fin_fire_2.png
+size: 220,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 2
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1
+fins
+  rotate: true
+  xy: 2, 133
+  size: 96, 210
+  orig: 104, 233
+  offset: 3, 13
+  index: -1
+thunder
+  rotate: false
+  xy: 140, 5
+  size: 78, 126
+  orig: 78, 126
+  offset: 0, 0
+  index: -1

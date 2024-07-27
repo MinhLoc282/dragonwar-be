@@ -1,0 +1,13 @@
+
+armor_water_1_attacked.png
+size: 133,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow_circle
+  rotate: false
+  xy: 2, 2
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1

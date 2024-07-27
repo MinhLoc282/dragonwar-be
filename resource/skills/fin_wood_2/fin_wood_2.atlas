@@ -1,0 +1,20 @@
+
+fin_wood_2.png
+size: 238,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fin
+  rotate: false
+  xy: 206, 12
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1
+line_white
+  rotate: true
+  xy: 2, 2
+  size: 95, 202
+  orig: 95, 416
+  offset: 0, 214
+  index: -1

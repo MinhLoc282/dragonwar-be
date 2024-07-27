@@ -1,0 +1,55 @@
+
+fin_wood_1_attacked.png
+size: 289,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f1
+  rotate: true
+  xy: 2, 2
+  size: 66, 100
+  orig: 78, 151
+  offset: 6, 5
+  index: -1
+f2
+  rotate: true
+  xy: 142, 72
+  size: 66, 130
+  orig: 78, 151
+  offset: 6, 5
+  index: -1
+f3
+  rotate: true
+  xy: 2, 70
+  size: 68, 138
+  orig: 78, 151
+  offset: 5, 4
+  index: -1
+f4
+  rotate: true
+  xy: 146, 140
+  size: 69, 141
+  orig: 78, 151
+  offset: 5, 5
+  index: -1
+f5
+  rotate: true
+  xy: 2, 140
+  size: 69, 142
+  orig: 78, 151
+  offset: 4, 5
+  index: -1
+f6
+  rotate: true
+  xy: 142, 2
+  size: 68, 119
+  orig: 78, 151
+  offset: 4, 5
+  index: -1
+vine
+  rotate: false
+  xy: 2, 211
+  size: 250, 12
+  orig: 250, 12
+  offset: 0, 0
+  index: -1

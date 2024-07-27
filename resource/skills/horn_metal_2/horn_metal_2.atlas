@@ -1,0 +1,13 @@
+
+horn_metal_2.png
+size: 280,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 2, 2
+  size: 276, 178
+  orig: 279, 185
+  offset: 1, 5
+  index: -1

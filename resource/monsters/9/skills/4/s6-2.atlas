@@ -1,0 +1,27 @@
+
+s6-2.png
+size: 1323, 736
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+circles(6)
+  rotate: false
+  xy: 2, 2
+  size: 561, 732
+  orig: 570, 738
+  offset: 6, 3
+  index: -1
+circles(7)
+  rotate: false
+  xy: 565, 2
+  size: 732, 732
+  orig: 738, 738
+  offset: 3, 3
+  index: -1
+lineee
+  rotate: true
+  xy: 1299, 484
+  size: 250, 22
+  orig: 250, 22
+  offset: 0, 0
+  index: -1

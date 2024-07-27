@@ -1,0 +1,76 @@
+
+horn_water_1_attacked.png
+size: 152,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/w2_(10 (1)
+  rotate: false
+  xy: 2, 96
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+images/w2_(10 (10)
+  rotate: false
+  xy: 114, 62
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+images/w2_(10 (2)
+  rotate: false
+  xy: 2, 117
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+images/w2_(10 (3)
+  rotate: false
+  xy: 75, 107
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+images/w2_(10 (4)
+  rotate: false
+  xy: 61, 61
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+images/w2_(10 (5)
+  rotate: false
+  xy: 2, 47
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+images/w2_(10 (6)
+  rotate: false
+  xy: 52, 11
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+images/w2_(10 (7)
+  rotate: false
+  xy: 102, 13
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+images/w2_(10 (8)
+  rotate: false
+  xy: 2, 2
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+images/w2_(10 (9)
+  rotate: false
+  xy: 114, 82
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1

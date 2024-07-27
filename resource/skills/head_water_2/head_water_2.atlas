@@ -1,0 +1,111 @@
+
+head_water_2.png
+size: 794,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 619, 125
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1
+5(1)
+  rotate: false
+  xy: 2, 377
+  size: 662, 174
+  orig: 662, 174
+  offset: 0, 0
+  index: -1
+5(2)
+  rotate: false
+  xy: 2, 553
+  size: 680, 119
+  orig: 680, 119
+  offset: 0, 0
+  index: -1
+5(3)
+  rotate: false
+  xy: 2, 674
+  size: 700, 164
+  orig: 700, 164
+  offset: 0, 0
+  index: -1
+5(4)
+  rotate: false
+  xy: 2, 16
+  size: 593, 182
+  orig: 593, 182
+  offset: 0, 0
+  index: -1
+5(5)
+  rotate: false
+  xy: 2, 200
+  size: 615, 175
+  orig: 615, 175
+  offset: 0, 0
+  index: -1
+line_white
+  rotate: false
+  xy: 684, 256
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1
+w(1)
+  rotate: true
+  xy: 597, 63
+  size: 60, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(8)
+  rotate: true
+  xy: 597, 63
+  size: 60, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(2)
+  rotate: true
+  xy: 704, 777
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(3)
+  rotate: true
+  xy: 704, 714
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(4)
+  rotate: true
+  xy: 684, 62
+  size: 61, 85
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(5)
+  rotate: false
+  xy: 619, 289
+  size: 51, 86
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(6)
+  rotate: true
+  xy: 681, 6
+  size: 54, 81
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+w(7)
+  rotate: true
+  xy: 597, 2
+  size: 59, 82
+  orig: 61, 88
+  offset: 0, 0
+  index: -1

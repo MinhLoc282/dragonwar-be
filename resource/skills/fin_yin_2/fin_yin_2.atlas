@@ -1,0 +1,34 @@
+
+fin_yin_2.png
+size: 551,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20hp
+  rotate: false
+  xy: 2, 2
+  size: 213, 65
+  orig: 242, 135
+  offset: 17, 37
+  index: -1
+glow
+  rotate: false
+  xy: 420, 34
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+line_white
+  rotate: true
+  xy: 2, 69
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1
+snowflake
+  rotate: false
+  xy: 217, 15
+  size: 52, 52
+  orig: 61, 63
+  offset: 4, 5
+  index: -1

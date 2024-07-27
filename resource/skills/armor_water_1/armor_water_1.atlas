@@ -1,0 +1,20 @@
+
+armor_water_1.png
+size: 105,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iceberge
+  rotate: false
+  xy: 38, 46
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1
+icebergeline
+  rotate: true
+  xy: 2, 2
+  size: 138, 34
+  orig: 138, 39
+  offset: 0, 0
+  index: -1

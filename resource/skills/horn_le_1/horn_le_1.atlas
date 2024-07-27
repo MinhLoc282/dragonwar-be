@@ -1,0 +1,27 @@
+
+horn_le_1.png
+size: 336,421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 3
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 99, 183
+  size: 236, 235
+  orig: 272, 281
+  offset: 15, 19
+  index: -1
+twinkle
+  rotate: true
+  xy: 99, 2
+  size: 179, 206
+  orig: 181, 206
+  offset: 1, 0
+  index: -1

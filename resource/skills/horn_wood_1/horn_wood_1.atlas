@@ -1,0 +1,27 @@
+
+horn_wood_1.png
+size: 282,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 2
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1
+glow
+  rotate: true
+  xy: 140, 2
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+seed
+  rotate: true
+  xy: 272, 120
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+armor_le_2.png
+size: 558,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow_circle
+  rotate: true
+  xy: 420, 2
+  size: 129, 136
+  orig: 150, 160
+  offset: 11, 10
+  index: -1
+images/line_white
+  rotate: true
+  xy: 2, 36
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1

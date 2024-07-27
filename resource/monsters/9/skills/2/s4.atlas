@@ -1,0 +1,13 @@
+
+s4.png
+size: 922,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line_curve
+  rotate: false
+  xy: 2, 2
+  size: 918, 356
+  orig: 967, 398
+  offset: 23, 23
+  index: -1

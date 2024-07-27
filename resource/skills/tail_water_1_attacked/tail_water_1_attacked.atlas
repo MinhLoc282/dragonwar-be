@@ -1,0 +1,62 @@
+
+tail_water_1_attacked.png
+size: 107,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/(1)
+  rotate: false
+  xy: 94, 155
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+images/(2)
+  rotate: true
+  xy: 54, 14
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+images/(3)
+  rotate: true
+  xy: 2, 53
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+images/(4)
+  rotate: true
+  xy: 2, 109
+  size: 61, 90
+  orig: 61, 90
+  offset: 0, 0
+  index: -1
+images/(5)
+  rotate: true
+  xy: 2, 172
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+images/(6)
+  rotate: true
+  xy: 2, 307
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+images/(7)
+  rotate: true
+  xy: 2, 238
+  size: 67, 101
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+images/(8)
+  rotate: true
+  xy: 2, 2
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1

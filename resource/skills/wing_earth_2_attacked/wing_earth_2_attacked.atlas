@@ -1,0 +1,76 @@
+
+wing_earth_2_attacked.png
+size: 1053,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/e12 (1)
+  rotate: true
+  xy: 1017, 24
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+images/e12 (10)
+  rotate: false
+  xy: 707, 16
+  size: 93, 138
+  orig: 93, 138
+  offset: 0, 0
+  index: -1
+images/e12 (2)
+  rotate: false
+  xy: 940, 4
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+images/e12 (3)
+  rotate: false
+  xy: 940, 63
+  size: 111, 91
+  orig: 111, 91
+  offset: 0, 0
+  index: -1
+images/e12 (4)
+  rotate: false
+  xy: 802, 20
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+images/e12 (5)
+  rotate: false
+  xy: 431, 7
+  size: 141, 147
+  orig: 141, 147
+  offset: 0, 0
+  index: -1
+images/e12 (6)
+  rotate: false
+  xy: 285, 4
+  size: 144, 150
+  orig: 144, 150
+  offset: 0, 0
+  index: -1
+images/e12 (7)
+  rotate: false
+  xy: 2, 2
+  size: 142, 152
+  orig: 142, 152
+  offset: 0, 0
+  index: -1
+images/e12 (8)
+  rotate: false
+  xy: 146, 3
+  size: 137, 151
+  orig: 137, 151
+  offset: 0, 0
+  index: -1
+images/e12 (9)
+  rotate: false
+  xy: 574, 8
+  size: 131, 146
+  orig: 131, 146
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+fin_water_1_attacked.png
+size: 202,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/s11 (0)
+  rotate: true
+  xy: 147, 38
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+images/s11 (1)
+  rotate: true
+  xy: 158, 50
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+images/s11 (2)
+  rotate: true
+  xy: 162, 142
+  size: 125, 38
+  orig: 125, 38
+  offset: 0, 0
+  index: -1
+images/s11 (3)
+  rotate: false
+  xy: 2, 2
+  size: 143, 45
+  orig: 143, 45
+  offset: 0, 0
+  index: -1
+images/s11 (4)
+  rotate: false
+  xy: 2, 49
+  size: 150, 48
+  orig: 150, 48
+  offset: 0, 0
+  index: -1
+images/s11 (5)
+  rotate: false
+  xy: 2, 99
+  size: 154, 45
+  orig: 154, 45
+  offset: 0, 0
+  index: -1
+images/s11 (6)
+  rotate: false
+  xy: 2, 146
+  size: 156, 43
+  orig: 156, 43
+  offset: 0, 0
+  index: -1
+images/s11 (7)
+  rotate: false
+  xy: 2, 191
+  size: 157, 42
+  orig: 157, 42
+  offset: 0, 0
+  index: -1
+images/s11 (8)
+  rotate: false
+  xy: 2, 235
+  size: 158, 32
+  orig: 158, 32
+  offset: 0, 0
+  index: -1

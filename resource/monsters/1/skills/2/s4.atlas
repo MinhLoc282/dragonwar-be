@@ -1,0 +1,13 @@
+
+s4.png
+size: 99,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line
+  rotate: false
+  xy: 2, 2
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1

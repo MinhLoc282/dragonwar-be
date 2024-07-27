@@ -1,0 +1,13 @@
+
+wing_water_2_attacked.png
+size: 69,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iceberge
+  rotate: false
+  xy: 2, 2
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1

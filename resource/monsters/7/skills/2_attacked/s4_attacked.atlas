@@ -1,0 +1,41 @@
+
+s4_attacked.png
+size: 236,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 2, 2
+  size: 196, 108
+  orig: 196, 108
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 112
+  size: 210, 98
+  orig: 210, 98
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 212
+  size: 226, 92
+  orig: 226, 92
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 2, 377
+  size: 232, 83
+  orig: 232, 83
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: false
+  xy: 2, 306
+  size: 227, 69
+  orig: 227, 69
+  offset: 0, 0
+  index: -1

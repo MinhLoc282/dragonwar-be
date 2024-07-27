@@ -1,0 +1,20 @@
+
+armor_wood_2.png
+size: 548,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line_white
+  rotate: true
+  xy: 2, 2
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1
+thunder
+  rotate: true
+  xy: 420, 19
+  size: 78, 126
+  orig: 78, 126
+  offset: 0, 0
+  index: -1

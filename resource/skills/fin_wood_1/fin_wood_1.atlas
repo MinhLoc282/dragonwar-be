@@ -1,0 +1,13 @@
+
+fin_wood_1.png
+size: 254,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/vine
+  rotate: false
+  xy: 2, 2
+  size: 250, 12
+  orig: 250, 12
+  offset: 0, 0
+  index: -1

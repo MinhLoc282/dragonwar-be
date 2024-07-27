@@ -1,0 +1,13 @@
+
+head_yin_2.png
+size: 154,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow
+  rotate: false
+  xy: 2, 2
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1

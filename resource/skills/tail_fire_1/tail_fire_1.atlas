@@ -1,0 +1,76 @@
+
+tail_fire_1.png
+size: 477,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1212--_0001_qw(1)
+  rotate: true
+  xy: 441, 23
+  size: 45, 29
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+1212--_0002_qw(2)
+  rotate: true
+  xy: 2, 2
+  size: 66, 48
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+1212--_0003_qw(3)
+  rotate: false
+  xy: 225, 3
+  size: 63, 65
+  orig: 89, 66
+  offset: 13, 0
+  index: -1
+1212--_0004_qw(4)
+  rotate: false
+  xy: 52, 2
+  size: 59, 66
+  orig: 89, 66
+  offset: 20, 0
+  index: -1
+1212--_0005_qw(5)
+  rotate: false
+  xy: 113, 2
+  size: 55, 66
+  orig: 89, 66
+  offset: 25, 0
+  index: -1
+1212--_0006_qw(6)
+  rotate: false
+  xy: 170, 2
+  size: 53, 66
+  orig: 89, 66
+  offset: 27, 0
+  index: -1
+1212--_0007_qw(7)
+  rotate: false
+  xy: 385, 6
+  size: 54, 62
+  orig: 89, 66
+  offset: 29, 0
+  index: -1
+1212--_0008_qw(8)
+  rotate: false
+  xy: 333, 5
+  size: 50, 63
+  orig: 89, 66
+  offset: 35, 0
+  index: -1
+1212--_0009_qw(9)
+  rotate: false
+  xy: 290, 4
+  size: 41, 64
+  orig: 89, 66
+  offset: 46, 0
+  index: -1
+1212--_0010_qw(10)
+  rotate: false
+  xy: 441, 7
+  size: 34, 14
+  orig: 89, 66
+  offset: 55, 49
+  index: -1

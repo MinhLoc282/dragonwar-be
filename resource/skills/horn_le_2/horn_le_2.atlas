@@ -1,0 +1,41 @@
+
+horn_le_2.png
+size: 551,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 420, 35
+  size: 129, 130
+  orig: 150, 155
+  offset: 9, 10
+  index: -1
+line_white
+  rotate: true
+  xy: 2, 70
+  size: 95, 416
+  orig: 95, 416
+  offset: 0, 0
+  index: -1
+shield__0000_front
+  rotate: true
+  xy: 90, 6
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+shield__0001_side
+  rotate: true
+  xy: 2, 2
+  size: 66, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+snowflake
+  rotate: false
+  xy: 178, 16
+  size: 52, 52
+  orig: 61, 63
+  offset: 4, 5
+  index: -1
