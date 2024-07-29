@@ -8,7 +8,7 @@
     "debug": "nodemon --inspect-brk=0.0.0.0:9339 server.js",
     "dev": "nodemon --inspect server.js",
     "dev:socket": "nodemon socket/socket.js",
-    "socket": "pm2 start socket/socket.js --name dragon-socket",
+    "socket": "pm2 start socket/socket.js --name dragon-socket-dev",
     "dev:worker": "nodemon worker/worker.js",
     "worker": "pm2 delete --silent dragon-worker || : && pm2 start worker/worker.js --name dragon-worker",
     "dev:cron": "nodemon cron/cron.js",

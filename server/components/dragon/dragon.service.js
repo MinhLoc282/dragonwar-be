@@ -427,7 +427,7 @@ export async function getDragonRandom() {
       await Redis.set('EGGS', JSON.stringify(tokens));
       return {
         id: id,
-        price: 5 * 10 ** 6
+        price: 5 * 10 ** 18
       };
     }
     let start = await Redis.get('start');
@@ -453,7 +453,7 @@ export async function getDragonRandom() {
     await Redis.set('EGGS', JSON.stringify(data));
     return {
       id: id,
-      price: 5 * 10 ** 6
+      price: 5 * 10 ** 18
     };
   } catch (error) {
     console.log('error getDragonList: ', error);
