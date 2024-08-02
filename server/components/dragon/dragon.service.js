@@ -238,9 +238,11 @@ export async function getDragonDetailFromBl(id, owner = '') {
       ownerAddress = owner.length ? owner : await getDragonOwner(id);
       let hatched;
       if (parseInt(dragon.sireId, 0)) {
-        hatched = parseInt(dragon.birthTime, 0) * 1000 + ((Math.floor(Math.random() * (864000 - 604800)) + 604800) * 1000);
+        // For dragons with a sire, set hatching time to 1 hour (3600 seconds)
+        hatched = parseInt(dragon.birthTime, 0) * 1000 + ((Math.floor(Math.random() * (3600 - 3300)) + 3300) * 1000);
       } else {
-        hatched = parseInt(dragon.birthTime, 0) * 1000 + ((Math.floor(Math.random() * (3024000 - 1814400)) + 1814400) * 1000);
+        // For dragons without a sire, also set hatching time to 1 hour (3600 seconds)
+        hatched = parseInt(dragon.birthTime, 0) * 1000 + ((Math.floor(Math.random() * (3600 - 3300)) + 3300) * 1000);
       }
       const stats = attributes.stats;
       const potential = attributes.potential + 1;
@@ -2128,14 +2130,21 @@ export async function hatchDragon(id, owner) {
     throw new APIError(500, 'Internal server error');
   }
 }
+const BATCH_SIZE = 10;
+const DELAY_MS = 1000;
+
 export async function syncImagesDragon() {
   try {
     const dragons = await Dragons.find();
-    dragons.map(async dragon => {
-      const data = await packageImageDragon(dragon.id, dragon.class, dragon.parts);
-      const image = data ?? dragon.image;
-      AMPQ.sendDataToQueue(WORKER_NAME.RESIZE_IMAGE, image);
-    })
+    for (let i = 0; i < dragons.length; i += BATCH_SIZE) {
+      const batch = dragons.slice(i, i + BATCH_SIZE);
+      await Promise.all(batch.map(async dragon => {
+        const data = await packageImageDragon(dragon.id, dragon.class, dragon.parts);
+        const image = data ?? dragon.image;
+        AMPQ.sendDataToQueue(WORKER_NAME.RESIZE_IMAGE, image);
+      }));
+      await new Promise(resolve => setTimeout(resolve, DELAY_MS));
+    }
   } catch (error) {
     logger.error('DragonService hatchDragon error:', error);
     throw new APIError(500, 'Internal server error');

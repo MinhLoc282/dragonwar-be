@@ -2,6 +2,8 @@ import fs from 'fs';
 import execa from 'execa';
 import logger from '../util/logger';
 
+const path = require('path');
+
 /**
  * Remove local file on server with filePath
  * @param filePath
@@ -46,13 +48,19 @@ export function removeFiles(filesPath) {
  * @param path
  * @returns {boolean}
  */
-export function mkDir(path) {
-  if (!path) {
+export function mkDir(dirPath) {
+  if (!dirPath) {
     return true;
   }
   try {
-    if (!fs.existsSync(path)) {
-      execa.commandSync(`mkdir -p ${path}`);
+    const normalizedPath = path.normalize(dirPath);
+    const parts = normalizedPath.split(path.sep);
+
+    for (let i = 1; i <= parts.length; i++) {
+      const currentPath = parts.slice(0, i).join(path.sep);
+      if (currentPath && !fs.existsSync(currentPath)) {
+        fs.mkdirSync(currentPath);
+      }
     }
     return true;
   } catch (error) {
@@ -71,7 +79,7 @@ export function getPathWithoutName(path) {
 }
 
 export function getDimensions(dimensions, resize) {
-  let result = {};
+  const result = {};
   result.width = resize;
   result.height = resize * dimensions.height / dimensions.width;
   return result;

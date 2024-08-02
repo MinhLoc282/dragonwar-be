@@ -1,10 +1,12 @@
-const {default: axios} = require('axios');
-const texturePacker = require('free-tex-packer-core');
-const fs = require('fs');
-const Jimp = require('jimp');
 import { mkDir } from './file.helper';
 
 import { ROOT_PATH } from '../constants';
+
+const { default: axios } = require('axios');
+const texturePacker = require('free-tex-packer-core');
+const fs = require('fs');
+const Jimp = require('jimp');
+
 const IMG_PART_ANCHOR = {
   TOP_LEFT: 1, // 'TOP_LEFT',
   TOP_RIGHT: 2, // 'TOP_RIGHT',
@@ -180,7 +182,7 @@ const getPositionFromAnchor = (x, y, width, height, anchor) => {
 async function buildDragonCover(imageParts, width, height, dest) {
   const imgLoad = imageParts.map(it => new Promise((resolve, reject) => {
     Jimp.read(it.contents).then((img) => {
-      resolve({...it, image: img});
+      resolve({ ...it, image: img });
     }).catch((err) => {
       reject(err);
     });
@@ -188,7 +190,7 @@ async function buildDragonCover(imageParts, width, height, dest) {
   const emptyImg = await createEmptyImage(width, height);
   const imgLoaded = await Promise.all(imgLoad);
   const writeImg = imgLoaded.map(it => new Promise((resolve, reject) => {
-    const {x, y} = getPositionFromAnchor(it.x, it.y, it.image.bitmap.width, it.image.bitmap.height, it.anchor);
+    const { x, y } = getPositionFromAnchor(it.x, it.y, it.image.bitmap.width, it.image.bitmap.height, it.anchor);
     emptyImg.composite(it.image, x, y, (err, img) => {
       if (!err) {
         resolve(it.path);
